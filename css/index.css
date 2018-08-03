@@ -1,0 +1,38 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+header form {
+	padding-top: 22px;
+}
+
+.Geodislogo {
+	width: 185px;
+}
+
+.Geoslogan {
+	padding-top: 9px;
+}
+
+.carousel-inner img {
+	max-height: 550px;
+}
+
+.carousel-item h5, p {
+	background-color: #87CEEB;
+	font-weight: bold;
+	color: black;
+}
+
+#navigationbar .container {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	background-color: #87CEEB;
+}
+
+#navigationbar .container a {
+	color: white;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
